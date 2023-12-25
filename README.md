@@ -15,3 +15,5 @@ mas também se destaca como uma ferramenta essencial para aumentar a produtivida
 comerciais e outros profissionais. Em resumo, este projeto é um facilitador de produtividade, permitindo um trabalho mais eficiente em menos tempo. 
 Otimize suas operações, simplifique a comunicação e alcance novos níveis de eficiência com a "Central de Emails".
 
+![Screenshot_20231225_150554_Gallery](https://github.com/Rael-developer/Rael-developer/assets/122409230/29c0dc45-e84b-4e27-a976-cd7be62297a9)
+
